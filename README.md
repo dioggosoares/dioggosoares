@@ -4,11 +4,11 @@
 
 Most of my experience comes from work in companies, personal freelance and studies. My focus is on the frontend path, but I had a portion of experience with backend and mobile projects during my trajectory, today I specialize in reactjs frontend developer, focusing on performant and robust applications, using microservices concepts.
 
-  <div>
+  <!-- <div>
     <a href="https://github.com/dioggosoares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioggosoares&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioggosoares&layout=compact&langs_count=7&theme=aura"/>
-  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioggosoares&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioggosoares&layout=compact&langs_count=7&theme=omni"/>
+  </div> -->
 
 #### Tools I use in my daily life:
 
@@ -38,3 +38,8 @@ Most of my experience comes from work in companies, personal freelance and studi
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
     </a>
   </div>
+
+  ### About: 
+
+[![Diogo Soares Status](https://github-readme-stats.vercel.app/api?username=dioggosoares&show_icons=true&theme=omni&include_all_commits=true&count_private=true)](https://github.com/dioggosoares/)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dioggosoares&layout=compact&langs_count=7&theme=omni)](https://github.com/dioggosoares/)
