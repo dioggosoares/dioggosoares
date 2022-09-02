@@ -40,3 +40,5 @@ Most of my experience comes from work in companies, personal freelance and studi
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
     </a>
   </div>
+
+![Snake animation](https://github.com/dioggosoares/dioggosoares/blob/output/github-contribution-grid-snake.svg)
